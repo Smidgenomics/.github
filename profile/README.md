@@ -20,4 +20,4 @@
 * [Portals](https://github.com/Smidgens/unity-portals) (BIRP/2022+)
 
 ## Unreal
-* [Utilities](https://github.com/Smidgenomics/unreal-utils) (5.0+)
+* [Utility Nodes](https://github.com/Smidgenomics/unreal-nodes) (5.0+)
