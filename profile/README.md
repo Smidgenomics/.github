@@ -8,5 +8,5 @@
 * [Runtime Console](https://github.com/Smidgenomics/unity-console)
 * [Project Bookmarks](https://github.com/Smidgenomics/unity-bookmarks)
 * [Project View Customization](https://github.com/Smidgenomics/unity-pview)
-* [Utility AI](https://github.com/Smidgens/unity-uai)
-* [Editor Utilities](https://github.com/Smidgens/unity-eutils)
+* [Utility AI](https://github.com/Smidgenomics/unity-uai)
+* [Editor Utilities](https://github.com/Smidgenomics/unity-eutils)
