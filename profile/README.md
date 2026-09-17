@@ -8,3 +8,4 @@
 * [unity-console](https://github.com/Smidgenomics/unity-console)
 * [unity-bookmarks](https://github.com/Smidgenomics/unity-bookmarks)
 * [unity-pview](https://github.com/Smidgenomics/unity-pview)
+* [unity-uai](https://github.com/Smidgens/unity-uai)
