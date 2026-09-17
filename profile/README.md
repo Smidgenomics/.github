@@ -3,9 +3,9 @@
 
 ## Unity
 
-* [unity-attributes](https://github.com/Smidgenomics/unity-attributes)
-* [unity-extensions](https://github.com/Smidgenomics/unity-extensions)
-* [unity-console](https://github.com/Smidgenomics/unity-console)
-* [unity-bookmarks](https://github.com/Smidgenomics/unity-bookmarks)
-* [unity-pview](https://github.com/Smidgenomics/unity-pview)
-* [unity-uai](https://github.com/Smidgens/unity-uai)
+* [Property Attributes](https://github.com/Smidgenomics/unity-attributes)
+* [C# Extensions](https://github.com/Smidgenomics/unity-extensions)
+* [Runtime Console](https://github.com/Smidgenomics/unity-console)
+* [Project Bookmarks](https://github.com/Smidgenomics/unity-bookmarks)
+* [Project View Customization](https://github.com/Smidgenomics/unity-pview)
+* [Utility AI](https://github.com/Smidgens/unity-uai)
