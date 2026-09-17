@@ -17,6 +17,7 @@
 * [Asset Variables](https://github.com/Smidgens/unity-data) (2022+)
 * [Asset Events](https://github.com/Smidgens/unity-events) (2022+)
 * [Snippet Scripts](https://github.com/Smidgens/unity-snippets) (2022+)
+* [Portals](https://github.com/Smidgens/unity-portals) (BIRP/2022+)
 
 ## Unreal
 * [Utilities](https://github.com/Smidgenomics/unreal-utils) (5.0+)
