@@ -9,6 +9,7 @@
 * [Bookmarks](https://github.com/Smidgenomics/unity-bookmarks) (2022+)
 * [Project View](https://github.com/Smidgenomics/unity-pview) (2022+)
 * [Utility AI](https://github.com/Smidgenomics/unity-uai) (2023+)
+* [First Person](https://github.com/Smidgenomics/unity-fp) (2023+)
 * [Editor Utilities](https://github.com/Smidgenomics/unity-eutils) (2022+)
 * [Quick Build](https://github.com/Smidgens/unity-qbuild) (2022+)
 * [Prototyping](https://github.com/Smidgenomics/unity-prototyping) (2022+)
